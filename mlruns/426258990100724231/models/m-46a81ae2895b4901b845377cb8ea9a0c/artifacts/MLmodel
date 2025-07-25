@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/sreek/OneDrive/Desktop/MLOPS/MLOPS_YT_MLFLOW/mlruns/426258990100724231/models/m-46a81ae2895b4901b845377cb8ea9a0c/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.2
+mlflow_version: 3.1.4
+model_id: m-46a81ae2895b4901b845377cb8ea9a0c
+model_size_bytes: 11792
+model_uuid: m-46a81ae2895b4901b845377cb8ea9a0c
+prompts: null
+run_id: 69130ecf22984f4288e679e284c25345
+utc_time_created: '2025-07-25 05:54:02.797188'

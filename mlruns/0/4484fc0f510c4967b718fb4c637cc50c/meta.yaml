@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4484fc0f510c4967b718fb4c637cc50c/artifacts
+end_time: 1753336054607
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4484fc0f510c4967b718fb4c637cc50c
+run_name: debonair-shrew-439
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753336054330
+status: 3
+tags: []
+user_id: sreek

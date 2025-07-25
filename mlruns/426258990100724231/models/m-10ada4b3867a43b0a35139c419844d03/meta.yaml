@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/sreek/OneDrive/Desktop/MLOPS/MLOPS_YT_MLFLOW/mlruns/426258990100724231/models/m-10ada4b3867a43b0a35139c419844d03/artifacts
+creation_timestamp: 1753426399889
+experiment_id: '426258990100724231'
+last_updated_timestamp: 1753426416940
+model_id: m-10ada4b3867a43b0a35139c419844d03
+model_type: ''
+name: model
+source_run_id: 26403d8955ed44e487c36ebbf18d37a9
+status: 2
+status_message: null

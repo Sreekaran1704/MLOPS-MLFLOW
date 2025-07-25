@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/sreek/OneDrive/Desktop/MLOPS/MLOPS_YT_MLFLOW/mlruns/426258990100724231/models/m-46a81ae2895b4901b845377cb8ea9a0c/artifacts
+creation_timestamp: 1753422842651
+experiment_id: '426258990100724231'
+last_updated_timestamp: 1753422856181
+model_id: m-46a81ae2895b4901b845377cb8ea9a0c
+model_type: ''
+name: random_forest_model
+source_run_id: 69130ecf22984f4288e679e284c25345
+status: 2
+status_message: null

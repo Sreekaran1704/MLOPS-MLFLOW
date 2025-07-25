@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sreek/OneDrive/Desktop/MLOPS/MLOPS_YT_MLFLOW/mlruns/426258990100724231/dc9dedceee504c52bf1e0cf569a7fdab/artifacts
+end_time: 1753339184028
+entry_point_name: ''
+experiment_id: '426258990100724231'
+lifecycle_stage: active
+run_id: dc9dedceee504c52bf1e0cf569a7fdab
+run_name: able-wolf-683
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753339181287
+status: 3
+tags: []
+user_id: sreek

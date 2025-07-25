@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sreek/OneDrive/Desktop/MLOPS/MLOPS_YT_MLFLOW/mlruns/426258990100724231/094d33f07dbf4943a75955ca66b7633b/artifacts
+end_time: 1753369960845
+entry_point_name: ''
+experiment_id: '426258990100724231'
+lifecycle_stage: active
+run_id: 094d33f07dbf4943a75955ca66b7633b
+run_name: dashing-stoat-950
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753369938874
+status: 3
+tags: []
+user_id: sreek

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sreek/OneDrive/Desktop/MLOPS/MLOPS_YT_MLFLOW/mlruns/426258990100724231/26403d8955ed44e487c36ebbf18d37a9/artifacts
+end_time: 1753426418648
+entry_point_name: ''
+experiment_id: '426258990100724231'
+lifecycle_stage: active
+run_id: 26403d8955ed44e487c36ebbf18d37a9
+run_name: youthful-stoat-283
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753426395520
+status: 3
+tags: []
+user_id: sreek
