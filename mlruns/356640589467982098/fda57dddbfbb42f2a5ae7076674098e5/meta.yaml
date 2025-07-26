@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sreek/OneDrive/Desktop/MLOPS/MLOPS_YT_MLFLOW/mlruns/356640589467982098/fda57dddbfbb42f2a5ae7076674098e5/artifacts
+end_time: 1753439589262
+entry_point_name: ''
+experiment_id: '356640589467982098'
+lifecycle_stage: active
+run_id: fda57dddbfbb42f2a5ae7076674098e5
+run_name: languid-stoat-254
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753439589139
+status: 3
+tags: []
+user_id: sreek

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sreek/OneDrive/Desktop/MLOPS/MLOPS_YT_MLFLOW/mlruns/356640589467982098/d0c8b20eae124ea7bfde5eb522a10dcc/artifacts
+end_time: 1753439590087
+entry_point_name: ''
+experiment_id: '356640589467982098'
+lifecycle_stage: active
+run_id: d0c8b20eae124ea7bfde5eb522a10dcc
+run_name: bold-fish-693
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753439589997
+status: 3
+tags: []
+user_id: sreek

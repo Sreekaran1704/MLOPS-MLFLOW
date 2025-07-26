@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sreek/OneDrive/Desktop/MLOPS/MLOPS_YT_MLFLOW/mlruns/356640589467982098/5b81dc8802084631b70842d166a5005a/artifacts
+end_time: 1753439589881
+entry_point_name: ''
+experiment_id: '356640589467982098'
+lifecycle_stage: active
+run_id: 5b81dc8802084631b70842d166a5005a
+run_name: treasured-grouse-700
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753439589784
+status: 3
+tags: []
+user_id: sreek

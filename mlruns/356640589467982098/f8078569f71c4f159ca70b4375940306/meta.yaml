@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sreek/OneDrive/Desktop/MLOPS/MLOPS_YT_MLFLOW/mlruns/356640589467982098/f8078569f71c4f159ca70b4375940306/artifacts
+end_time: 1753439589991
+entry_point_name: ''
+experiment_id: '356640589467982098'
+lifecycle_stage: active
+run_id: f8078569f71c4f159ca70b4375940306
+run_name: luxuriant-conch-946
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753439589888
+status: 3
+tags: []
+user_id: sreek

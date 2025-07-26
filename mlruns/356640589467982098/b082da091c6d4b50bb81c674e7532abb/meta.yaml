@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sreek/OneDrive/Desktop/MLOPS/MLOPS_YT_MLFLOW/mlruns/356640589467982098/b082da091c6d4b50bb81c674e7532abb/artifacts
+end_time: 1753439589669
+entry_point_name: ''
+experiment_id: '356640589467982098'
+lifecycle_stage: active
+run_id: b082da091c6d4b50bb81c674e7532abb
+run_name: calm-rook-594
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753439589578
+status: 3
+tags: []
+user_id: sreek

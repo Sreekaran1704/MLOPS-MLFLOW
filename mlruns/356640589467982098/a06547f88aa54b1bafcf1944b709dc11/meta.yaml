@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sreek/OneDrive/Desktop/MLOPS/MLOPS_YT_MLFLOW/mlruns/356640589467982098/a06547f88aa54b1bafcf1944b709dc11/artifacts
+end_time: 1753439589571
+entry_point_name: ''
+experiment_id: '356640589467982098'
+lifecycle_stage: active
+run_id: a06547f88aa54b1bafcf1944b709dc11
+run_name: dapper-hog-867
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753439589483
+status: 3
+tags: []
+user_id: sreek

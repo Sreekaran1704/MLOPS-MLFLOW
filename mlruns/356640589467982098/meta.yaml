@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/sreek/OneDrive/Desktop/MLOPS/MLOPS_YT_MLFLOW/mlruns/356640589467982098
+creation_time: 1753439574773
+experiment_id: '356640589467982098'
+last_update_time: 1753439574773
+lifecycle_stage: active
+name: breast-cancer-rf-hp

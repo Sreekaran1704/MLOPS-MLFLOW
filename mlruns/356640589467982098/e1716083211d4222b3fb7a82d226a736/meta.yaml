@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sreek/OneDrive/Desktop/MLOPS/MLOPS_YT_MLFLOW/mlruns/356640589467982098/e1716083211d4222b3fb7a82d226a736/artifacts
+end_time: 1753439590516
+entry_point_name: ''
+experiment_id: '356640589467982098'
+lifecycle_stage: active
+run_id: e1716083211d4222b3fb7a82d226a736
+run_name: secretive-cub-886
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753439590372
+status: 3
+tags: []
+user_id: sreek

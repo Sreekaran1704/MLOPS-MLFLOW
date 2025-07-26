@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sreek/OneDrive/Desktop/MLOPS/MLOPS_YT_MLFLOW/mlruns/356640589467982098/f5974efdf5e74f06b52e9b79632984f6/artifacts
+end_time: 1753439608011
+entry_point_name: ''
+experiment_id: '356640589467982098'
+lifecycle_stage: active
+run_id: f5974efdf5e74f06b52e9b79632984f6
+run_name: bedecked-sponge-998
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753439576557
+status: 3
+tags: []
+user_id: sreek

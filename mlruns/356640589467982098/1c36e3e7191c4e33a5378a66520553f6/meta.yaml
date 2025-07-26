@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sreek/OneDrive/Desktop/MLOPS/MLOPS_YT_MLFLOW/mlruns/356640589467982098/1c36e3e7191c4e33a5378a66520553f6/artifacts
+end_time: 1753439589363
+entry_point_name: ''
+experiment_id: '356640589467982098'
+lifecycle_stage: active
+run_id: 1c36e3e7191c4e33a5378a66520553f6
+run_name: painted-lamb-116
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753439589271
+status: 3
+tags: []
+user_id: sreek
